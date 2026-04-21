@@ -4,7 +4,7 @@
 
 A simple cleaning service management system built with PHP, MySQL, HTML, CSS, and JS. It allows clients to book cleaners, cleaners to manage their tasks, and admins to monitor the system.
 
-## Features
+## Features:
 
 ### For Customers
 - 🔐 Secure registration and login
@@ -28,7 +28,7 @@ A simple cleaning service management system built with PHP, MySQL, HTML, CSS, an
 - ⚙️ System settings configuration
 
   
-## Tech Stack
+## Tech Stack:
 
 ### Frontend
 - **HTML5** - Semantic markup
